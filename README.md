@@ -16,3 +16,10 @@ The primary motivation for this project is towards building an `invasive species
 system which more naturally integrates with photo apps on a persons phone for after / during
 hiking identification and notification of invasive plant species.  These models are a first
 step towards a more (read _actual_) system to perform that task.
+
+
+### Installation Instructions
+
+I will include installation instructions at a later date, high level, download the 
+2015 training data and create a symbolic link to the data in this folder labeled
+`data`.  A bit on the nose, but it works.
